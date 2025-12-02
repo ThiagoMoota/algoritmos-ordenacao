@@ -1,1 +1,1 @@
-Algoritmos de ordenação em python
+Algoritmos de ordenação em Python.
